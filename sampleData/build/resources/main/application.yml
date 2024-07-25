@@ -1,0 +1,5 @@
+spring:
+application:
+name: sampleData
+server:
+  port:8080

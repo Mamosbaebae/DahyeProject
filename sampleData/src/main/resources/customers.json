@@ -1,0 +1,59 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "James Butt",
+      "country": "Algeria"
+    },
+    {
+      "id": 2,
+      "name": "Josephine Darakjy",
+      "country": "Egypt"
+    },
+    {
+      "id": 3,
+      "name": "Art Venere",
+      "country": "Panama"
+    },
+    {
+      "id": 4,
+      "name": "Lenna Paprocki",
+      "country": "Slovenia"
+    },
+    {
+      "id": 5,
+      "name": "Donette Foller",
+      "country": "South Africa"
+    },
+    {
+      "id": 6,
+      "name": "Simona Morasca",
+      "country": "Egypt"
+    },
+    {
+      "id": 7,
+      "name": "Mitsue Tollner",
+      "country": "Paraguay"
+    },
+    {
+      "id": 8,
+      "name": "Leota Dilliard",
+      "country": "Serbia"
+    },
+    {
+      "id": 9,
+      "name": "Sage Wieser",
+      "country": "Egypt"
+    },
+    {
+      "id": 10,
+      "name": "Kris Marrier",
+      "country": "Mexico"
+    },
+    {
+      "id": 11,
+      "name": "Seunggi Ryu",
+      "country": "South Korea"
+    }
+  ]
+}
